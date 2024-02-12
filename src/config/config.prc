@@ -3,6 +3,8 @@ load-display pandagl
 window-title Physics Sandbox
 icon-filename icon.ico
 
+threading-model Cull/Draw
+
 cursor-hidden 1
 show-frame-rate-meter 1
 
